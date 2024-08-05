@@ -1,0 +1,38 @@
+<svg width="800" height="1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="50" fill="#e0e0e0"/>
+  <text x="20" y="30" font-family="Arial" font-size="16" fill="#000000">[Logo] [Home] [Sobre] [Planos] [Logout]</text>
+
+  <!-- Loja Online -->
+  <text x="20" y="80" font-family="Arial" font-size="20" fill="#000000">Loja Online</text>
+  <rect x="20" y="110" width="200" height="30" fill="#c0c0c0"/>
+  <text x="30" y="130" font-family="Arial" font-size="14" fill="#000000">[Buscar Produtos]</text>
+  <rect x="240" y="110" width="200" height="30" fill="#c0c0c0"/>
+  <text x="250" y="130" font-family="Arial" font-size="14" fill="#000000">[Filtrar por Categoria]</text>
+
+  <!-- Produtos em Destaque -->
+  <text x="20" y="180" font-family="Arial" font-size="20" fill="#000000">Produtos em Destaque</text>
+  <rect x="20" y="210" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="260" y="210" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="500" y="210" width="220" height="150" fill="#c0c0c0"/>
+  <text x="40" y="290" font-family="Arial" font-size="14" fill="#000000">[Produto 1]</text>
+  <text x="280" y="290" font-family="Arial" font-size="14" fill="#000000">[Produto 2]</text>
+  <text x="520" y="290" font-family="Arial" font-size="14" fill="#000000">[Produto 3]</text>
+
+  <!-- Carrinho -->
+  <text x="20" y="380" font-family="Arial" font-size="20" fill="#000000">Carrinho</text>
+  <rect x="20" y="410" width="760" height="30" fill="#c0c0c0"/>
+  <text x="30" y="430" font-family="Arial" font-size="14" fill="#000000">[Produto 1]</text>
+  <rect x="20" y="450" width="760" height="30" fill="#c0c0c0"/>
+  <text x="30" y="470" font-family="Arial" font-size="14" fill="#000000">[Produto 2]</text>
+  <rect x="20" y="490" width="760" height="30" fill="#c0c0c0"/>
+  <text x="30" y="510" font-family="Arial" font-size="14" fill="#000000">[Produto 3]</text>
+  <rect x="20" y="530" width="760" height="30" fill="#c0c0c0"/>
+  <text x="30" y="550" font-family="Arial" font-size="14" fill="#000000">[Total]: [Valor]</text>
+  <rect x="20" y="570" width="200" height="30" fill="#c0c0c0"/>
+  <text x="30" y="590" font-family="Arial" font-size="14" fill="#000000">[Finalizar Compra]</text>
+
+  <!-- Footer -->
+  <rect x="0" y="700" width="800" height="50" fill="#e0e0e0"/>
+  <text x="20" y="730" font-family="Arial" font-size="16" fill="#000000">[Links] [Contato] [Redes Sociais] [Termos de Uso]</text>
+</svg>

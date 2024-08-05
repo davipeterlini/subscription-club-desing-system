@@ -1,0 +1,43 @@
+<svg width="800" height="1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="50" fill="#e0e0e0"/>
+  <text x="20" y="30" font-family="Arial" font-size="16" fill="#000000">[Logo] [Home] [Sobre] [Planos] [Logout]</text>
+
+  <!-- Biblioteca de Conteúdos -->
+  <text x="20" y="80" font-family="Arial" font-size="20" fill="#000000">Biblioteca de Conteúdos</text>
+  <rect x="20" y="110" width="200" height="30" fill="#c0c0c0"/>
+  <text x="30" y="130" font-family="Arial" font-size="14" fill="#000000">[Buscar Conteúdos]</text>
+  <rect x="240" y="110" width="200" height="30" fill="#c0c0c0"/>
+  <text x="250" y="130" font-family="Arial" font-size="14" fill="#000000">[Filtrar por Categoria]</text>
+
+  <!-- Artigos e E-books -->
+  <text x="20" y="180" font-family="Arial" font-size="20" fill="#000000">Artigos e E-books</text>
+  <rect x="20" y="210" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="260" y="210" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="500" y="210" width="220" height="150" fill="#c0c0c0"/>
+  <text x="40" y="290" font-family="Arial" font-size="14" fill="#000000">[Artigo 1]</text>
+  <text x="280" y="290" font-family="Arial" font-size="14" fill="#000000">[Artigo 2]</text>
+  <text x="520" y="290" font-family="Arial" font-size="14" fill="#000000">[Artigo 3]</text>
+
+  <!-- Vídeos e Aulas -->
+  <text x="20" y="380" font-family="Arial" font-size="20" fill="#000000">Vídeos e Aulas</text>
+  <rect x="20" y="410" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="260" y="410" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="500" y="410" width="220" height="150" fill="#c0c0c0"/>
+  <text x="40" y="490" font-family="Arial" font-size="14" fill="#000000">[Vídeo 1]</text>
+  <text x="280" y="490" font-family="Arial" font-size="14" fill="#000000">[Vídeo 2]</text>
+  <text x="520" y="490" font-family="Arial" font-size="14" fill="#000000">[Vídeo 3]</text>
+
+  <!-- Podcasts e Entrevistas -->
+  <text x="20" y="580" font-family="Arial" font-size="20" fill="#000000">Podcasts e Entrevistas</text>
+  <rect x="20" y="610" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="260" y="610" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="500" y="610" width="220" height="150" fill="#c0c0c0"/>
+  <text x="40" y="690" font-family="Arial" font-size="14" fill="#000000">[Podcast 1]</text>
+  <text x="280" y="690" font-family="Arial" font-size="14" fill="#000000">[Podcast 2]</text>
+  <text x="520" y="690" font-family="Arial" font-size="14" fill="#000000">[Podcast 3]</text>
+
+  <!-- Footer -->
+  <rect x="0" y="780" width="800" height="50" fill="#e0e0e0"/>
+  <text x="20" y="810" font-family="Arial" font-size="16" fill="#000000">[Links] [Contato] [Redes Sociais] [Termos de Uso]</text>
+</svg>

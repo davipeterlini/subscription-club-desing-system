@@ -1,0 +1,36 @@
+<svg width="1440" height="1600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cabeçalho -->
+  <rect x="0" y="0" width="1440" height="80" fill="#ffffff" stroke="#d3d3d3"/>
+  <text x="60" y="50" font-family="Arial" font-size="24" fill="#000000">Logo</text>
+  <text x="200" y="50" font-family="Arial" font-size="18" fill="#000000">Home</text>
+  <text x="300" y="50" font-family="Arial" font-size="18" fill="#000000">Sobre</text>
+  <text x="400" y="50" font-family="Arial" font-size="18" fill="#000000">Planos</text>
+  <rect x="1240" y="20" width="120" height="40" fill="#ff6b6b"/>
+  <text x="1260" y="50" font-family="Arial" font-size="18" fill="#ffffff">Logout</text>
+
+  <!-- Perfil do Usuário -->
+  <rect x="60" y="100" width="100" height="100" fill="#d3d3d3"/>
+  <text x="180" y="150" font-family="Arial" font-size="36" fill="#000000">Nome do Usuário</text>
+  <rect x="180" y="180" width="120" height="40" fill="#ff6b6b"/>
+  <text x="190" y="210" font-family="Arial" font-size="18" fill="#ffffff">Editar Perfil</text>
+  <rect x="320" y="180" width="140" height="40" fill="#ff6b6b"/>
+  <text x="330" y="210" font-family="Arial" font-size="18" fill="#ffffff">Configurações</text>
+
+  <!-- Histórico de Uso -->
+  <text x="60" y="280" font-family="Arial" font-size="36" fill="#000000">Histórico de Uso</text>
+  <rect x="60" y="320" width="1320" height="100" fill="#c0c0c0"/>
+  <text x="80" y="380" font-family="Arial" font-size="24" fill="#000000">Atividade Recente</text>
+
+  <!-- Preferências de Saúde -->
+  <text x="60" y="450" font-family="Arial" font-size="36" fill="#000000">Preferências de Saúde</text>
+  <rect x="60" y="500" width="360" height="50" fill="#c0c0c0"/>
+  <rect x="440" y="500" width="360" height="50" fill="#c0c0c0"/>
+  <rect x="820" y="500" width="360" height="50" fill="#c0c0c0"/>
+  <text x="80" y="530" font-family="Arial" font-size="24" fill="#000000">Preferência 1</text>
+  <text x="460" y="530" font-family="Arial" font-size="24" fill="#000000">Preferência 2</text>
+  <text x="840" y="530" font-family="Arial" font-size="24" fill="#000000">Preferência 3</text>
+
+  <!-- Rodapé -->
+  <rect x="0" y="1150" width="1440" height="100" fill="#ffffff" stroke="#d3d3d3"/>
+  <text x="60" y="1200" font-family="Arial" font-size="18" fill="#000000">Links úteis | Contato | Redes Sociais | Termos de Uso</text>
+</svg>
