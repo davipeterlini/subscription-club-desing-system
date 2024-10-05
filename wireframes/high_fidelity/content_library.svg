@@ -1,0 +1,51 @@
+<svg width="1440" height="1600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cabeçalho -->
+  <rect x="0" y="0" width="1440" height="80" fill="#ffffff" stroke="#d3d3d3"/>
+  <text x="60" y="50" font-family="Arial" font-size="24" fill="#000000">Logo</text>
+  <text x="200" y="50" font-family="Arial" font-size="18" fill="#000000">Home</text>
+  <text x="300" y="50" font-family="Arial" font-size="18" fill="#000000">Sobre</text>
+  <text x="400" y="50" font-family="Arial" font-size="18" fill="#000000">Planos</text>
+  <rect x="1240" y="20" width="120" height="40" fill="#ff6b6b"/>
+  <text x="1260" y="50" font-family="Arial" font-size="18" fill="#ffffff">Logout</text>
+
+  <!-- Biblioteca de Conteúdos -->
+  <text x="60" y="100" font-family="Arial" font-size="36" fill="#000000">Biblioteca de Conteúdos</text>
+  <rect x="60" y="140" width="400" height="40" fill="#d3d3d3"/>
+  <text x="70" y="170" font-family="Arial" font-size="18" fill="#000000">Buscar Conteúdos</text>
+  <rect x="480" y="140" width="200" height="40" fill="#d3d3d3"/>
+  <text x="490" y="170" font-family="Arial" font-size="18" fill="#000000">Filtrar por Categoria</text>
+
+  <!-- Artigos e E-books -->
+  <text x="60" y="220" font-family="Arial" font-size="36" fill="#000000">Artigos e E-books</text>
+  <rect x="60" y="260" width="360" height="200" fill="#c0c0c0"/>
+  <rect x="440" y="260" width="360" height="200" fill="#c0c0c0"/>
+  <rect x="820" y="260" width="360" height="200" fill="#c0c0c0"/>
+  <text x="80" y="310" font-family="Arial" font-size="24" fill="#000000">Artigo 1</text>
+  <text x="80" y="340" font-family="Arial" font-size="18" fill="#000000">Descrição breve do Artigo 1.</text>
+  <rect x="300" y="410" width="120" height="40" fill="#ff6b6b"/>
+  <text x="320" y="440" font-family="Arial" font-size="18" fill="#ffffff">Leia Mais</text>
+
+  <!-- Vídeos e Aulas -->
+  <text x="60" y="480" font-family="Arial" font-size="36" fill="#000000">Vídeos e Aulas</text>
+  <rect x="60" y="520" width="360" height="200" fill="#c0c0c0"/>
+  <rect x="440" y="520" width="360" height="200" fill="#c0c0c0"/>
+  <rect x="820" y="520" width="360" height="200" fill="#c0c0c0"/>
+  <text x="80" y="570" font-family="Arial" font-size="24" fill="#000000">Vídeo 1</text>
+  <text x="80" y="600" font-family="Arial" font-size="18" fill="#000000">Descrição breve do Vídeo 1.</text>
+  <rect x="300" y="670" width="120" height="40" fill="#ff6b6b"/>
+  <text x="320" y="700" font-family="Arial" font-size="18" fill="#ffffff">Assistir</text>
+
+  <!-- Podcasts e Entrevistas -->
+  <text x="60" y="740" font-family="Arial" font-size="36" fill="#000000">Podcasts e Entrevistas</text>
+  <rect x="60" y="780" width="360" height="200" fill="#c0c0c0"/>
+  <rect x="440" y="780" width="360" height="200" fill="#c0c0c0"/>
+  <rect x="820" y="780" width="360" height="200" fill="#c0c0c0"/>
+  <text x="80" y="830" font-family="Arial" font-size="24" fill="#000000">Podcast 1</text>
+  <text x="80" y="860" font-family="Arial" font-size="18" fill="#000000">Descrição breve do Podcast 1.</text>
+  <rect x="300" y="930" width="120" height="40" fill="#ff6b6b"/>
+  <text x="320" y="960" font-family="Arial" font-size="18" fill="#ffffff">Ouvir</text>
+
+  <!-- Rodapé -->
+  <rect x="0" y="1150" width="1440" height="100" fill="#ffffff" stroke="#d3d3d3"/>
+  <text x="60" y="1200" font-family="Arial" font-size="18" fill="#000000">Links úteis | Contato | Redes Sociais | Termos de Uso</text>
+</svg>

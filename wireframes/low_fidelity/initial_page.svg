@@ -1,0 +1,31 @@
+<svg width="800" height="1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="50" fill="#e0e0e0"/>
+  <text x="20" y="30" font-family="Arial" font-size="16" fill="#000000">[Logo] [Home] [Sobre] [Planos] [Login]</text>
+
+  <!-- Banner de Boas-vindas -->
+  <rect x="0" y="60" width="800" height="200" fill="#d3d3d3"/>
+  <text x="20" y="150" font-family="Arial" font-size="24" fill="#000000">Banner de Boas-vindas</text>
+
+  <!-- Destaques do Mês -->
+  <text x="20" y="290" font-family="Arial" font-size="20" fill="#000000">Destaques do Mês</text>
+  <rect x="20" y="320" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="260" y="320" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="500" y="320" width="220" height="150" fill="#c0c0c0"/>
+  <text x="40" y="400" font-family="Arial" font-size="14" fill="#000000">[Imagem]</text>
+  <text x="280" y="400" font-family="Arial" font-size="14" fill="#000000">[Imagem]</text>
+  <text x="520" y="400" font-family="Arial" font-size="14" fill="#000000">[Imagem]</text>
+
+  <!-- Depoimentos e Casos de Sucesso -->
+  <text x="20" y="500" font-family="Arial" font-size="20" fill="#000000">Depoimentos e Casos de Sucesso</text>
+  <rect x="20" y="530" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="260" y="530" width="220" height="150" fill="#c0c0c0"/>
+  <rect x="500" y="530" width="220" height="150" fill="#c0c0c0"/>
+  <text x="40" y="610" font-family="Arial" font-size="14" fill="#000000">[Depoimento 1]</text>
+  <text x="280" y="610" font-family="Arial" font-size="14" fill="#000000">[Depoimento 2]</text>
+  <text x="520" y="610" font-family="Arial" font-size="14" fill="#000000">[Depoimento 3]</text>
+
+  <!-- Footer -->
+  <rect x="0" y="700" width="800" height="50" fill="#e0e0e0"/>
+  <text x="20" y="730" font-family="Arial" font-size="16" fill="#000000">[Links] [Contato] [Redes Sociais] [Termos de Uso]</text>
+</svg>

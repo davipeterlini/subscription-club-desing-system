@@ -1,0 +1,31 @@
+<svg width="800" height="1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="50" fill="#e0e0e0"/>
+  <text x="20" y="30" font-family="Arial" font-size="16" fill="#000000">[Logo] [Home] [Sobre] [Planos] [Logout]</text>
+
+  <!-- Perfil do Usuário -->
+  <rect x="20" y="60" width="100" height="100" fill="#d3d3d3"/>
+  <text x="140" y="100" font-family="Arial" font-size="24" fill="#000000">[Nome do Usuário]</text>
+  <rect x="140" y="130" width="120" height="30" fill="#c0c0c0"/>
+  <text x="150" y="150" font-family="Arial" font-size="14" fill="#000000">[Editar Perfil]</text>
+  <rect x="280" y="130" width="140" height="30" fill="#c0c0c0"/>
+  <text x="290" y="150" font-family="Arial" font-size="14" fill="#000000">[Configurações]</text>
+
+  <!-- Histórico de Uso -->
+  <text x="20" y="200" font-family="Arial" font-size="20" fill="#000000">Histórico de Uso</text>
+  <rect x="20" y="230" width="760" height="100" fill="#c0c0c0"/>
+  <text x="40" y="280" font-family="Arial" font-size="14" fill="#000000">[Atividade Recente]</text>
+
+  <!-- Preferências de Saúde -->
+  <text x="20" y="350" font-family="Arial" font-size="20" fill="#000000">Preferências de Saúde</text>
+  <rect x="20" y="380" width="220" height="50" fill="#c0c0c0"/>
+  <rect x="260" y="380" width="220" height="50" fill="#c0c0c0"/>
+  <rect x="500" y="380" width="220" height="50" fill="#c0c0c0"/>
+  <text x="40" y="410" font-family="Arial" font-size="14" fill="#000000">[Preferências 1]</text>
+  <text x="280" y="410" font-family="Arial" font-size="14" fill="#000000">[Preferências 2]</text>
+  <text x="520" y="410" font-family="Arial" font-size="14" fill="#000000">[Preferências 3]</text>
+
+  <!-- Footer -->
+  <rect x="0" y="450" width="800" height="50" fill="#e0e0e0"/>
+  <text x="20" y="480" font-family="Arial" font-size="16" fill="#000000">[Links] [Contato] [Redes Sociais] [Termos de Uso]</text>
+</svg>
